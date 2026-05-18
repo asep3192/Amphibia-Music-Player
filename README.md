@@ -6,6 +6,9 @@ The public of repo of the application made by Asep1582 (asep3192) of the Amphibi
   <ul> Stopping the music at any point while its playing</ul>
   <ul> Pausing the music at any point while its playing (feature not final)</ul>
 </p>
+
+<h2> <b> The application (exe) of the music player MUST be in the same location as the audio files. </b></h2>
+
 <h2> Not Affitalted with Disney or Mat Braly. Fan Made Project</h2>
 
 
