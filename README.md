@@ -8,3 +8,13 @@ The public of repo of the application made by Asep1582 (asep3192) of the Amphibi
 </p>
 <h2> Not Affitalted with Disney or Mat Braly. Fan Made Project</h2>
 
+
+
+
+
+
+<footer> 
+<p style="text-align: center"> &copy; Copyright 2026 Asep1582. All Rights Reserved.</p>
+  <p style="text-align: center"> Project intially made in 2025</p>
+</footer>
+
