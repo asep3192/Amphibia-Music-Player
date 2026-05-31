@@ -1,5 +1,5 @@
 # Amphibia-Music-Player
-The public of repo of the application made by Asep1582 (asep3192) of the Amphibia Music Player that plays all music from in the Disney show.
+The application Amphibia Music Player is made by Asep1582 (asep3192) that plays all music from the Disney show 'Amphibia'.
 
 <h2> Features coming in the feature </h2>
 <p>
@@ -7,9 +7,11 @@ The public of repo of the application made by Asep1582 (asep3192) of the Amphibi
   <ul> Pausing the music at any point while its playing (feature not final)</ul>
 </p>
 
-<h2> <b> The application (exe) of the music player MUST be in the same location as the audio files. </b></h2>
+<h2> Dependices: </h2>
+<p> <b> The Amphibia Music Player application (exe) MUST have a folder named "Audio-Files-2" in the same location as the Music Player. If the Audio Files folder is not found then <strong> none </strong> of the audio files will play</b>
 
-<h2> Not Affitalted with Disney or Mat Braly. Fan Made Project</h2>
+<h2> Disclaimers: </h2>
+<h3> This project is Not Affitalted with Disney or Mat Braly. Fan Made Project</h3>
 
 
 
