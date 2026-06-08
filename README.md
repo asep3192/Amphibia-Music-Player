@@ -10,6 +10,10 @@ The application Amphibia Music Player is made by Asep1582 (asep3192) that plays 
 <h2> Dependices: </h2>
 <p> <b> The Amphibia Music Player application (exe) MUST have a folder named "Audio-Files-2" in the same location as the Music Player. If the Audio Files folder is not found then <strong> none </strong> of the audio files will play</b>
 
+<h2> How to download</h2>
+<p>   You can download the Amphibia Music Player in the releases of this repo. </p>
+<p>   Then download the latest version of the zip file there. </p>
+
 <h2> Disclaimers: </h2>
 <h3> This project is Not Affitalted with Disney or Mat Braly. Fan Made Project</h3>
 
