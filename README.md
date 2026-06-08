@@ -12,7 +12,7 @@ The application Amphibia Music Player is made by Asep1582 (asep3192) that plays 
 
 <h2> How to download</h2>
 <p>   You can download the Amphibia Music Player at the link below. 
-<p> This Version does not include Pausing and Stoping music when it is playing in the music player. The music player <strong> will not work</strong> _unless_ _the audio files_ **folder**__ _'Audio-Files-2' is in the same path as the program._ The music player app can not be in the same folder as the music files are, it **must be on its own** with the _audio files_ **in their own folder.**__ </p>
+This Version does not include Pausing and Stoping music when it is playing in the music player. The music player <strong> will not work</strong> <i>unless </i><i>the audio files</i> ***folder*** 'Audio-Files-2' is in the same path as the program.<i> The music player app can not be in the same folder as the music files are,</i> <strong>it must be on its own </strong> with the <i> audio files </i> ***in their own folder.*** 
 Windows: <a href="https://download.asep3192.com/Amphibia/Amphibia-Music-Player-V0.1.zip" target="_blank"> Amphibia Music Player - V0.1 beta </a></p>
 <!--<p>   Then download the latest version of the zip file there. </p>-->
 
