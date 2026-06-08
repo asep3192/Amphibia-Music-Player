@@ -11,7 +11,9 @@ The application Amphibia Music Player is made by Asep1582 (asep3192) that plays 
 <p> <b> The Amphibia Music Player application (exe) MUST have a folder named "Audio-Files-2" in the same location as the Music Player. If the Audio Files folder is not found then <strong> none </strong> of the audio files will play</b>
 
 <h2> How to download</h2>
-<p>   You can download the Amphibia Music Player at this link: <a href="https://download.asep3192.com/Amphibia/Amphibia-Music-Player-V0.1.zip" target="_blank"> Amphibia Music Player - V0.1 beta </a></p>
+<p>   You can download the Amphibia Music Player at the link below. 
+<p> This Version does not include Pausing and Stoping music when it is playing in the music player. The music player **will not work** *unless* *the audio files ***folder*** 'Audio-Files-2' is in the same path as the program.* The music player app can not be in the same folder as the music files are, it **must be on its own** with the *audio files* ***in their own folder.*** </p>
+Windows: <a href="https://download.asep3192.com/Amphibia/Amphibia-Music-Player-V0.1.zip" target="_blank"> Amphibia Music Player - V0.1 beta </a></p>
 <!--<p>   Then download the latest version of the zip file there. </p>-->
 
 <h2> Disclaimers: </h2>
